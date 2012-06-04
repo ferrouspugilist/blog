@@ -17,7 +17,13 @@ Console.WriteLine("Testing");
 <br/>
 
 {% highlight C# %}
-Console.WriteLine("Hi");
+public class Hello {
+
+  public static void Main(string[] args) {
+      int x = 5;
+  }
+
+}
 {% endhighlight %}
 
 
