@@ -13,3 +13,9 @@ Hello {{ page.who }}!
 <pre>
 Console.WriteLine("Testing");
 </pre>
+
+<br/>
+
+{% highlight bash %}
+cd ~
+{% endhighlight %}
