@@ -29,7 +29,15 @@ end
 {% endhighlight %}
 
 {% highlight csharp %}
-var i = 50;
+
+public class TestClass {
+  public static void Main(string[] args) 
+  {
+	var i = 50;
+  }
+}
+
+
 {% endhighlight %}
 
 
