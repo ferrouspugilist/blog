@@ -10,6 +10,6 @@ who: World
 {% include JB/setup %}
 Hello {{ page.who }}!
 
-{% highlight C# %}
+<pre>
 Console.WriteLine("Testing");
-{% endhighlight %}
+</pre>
