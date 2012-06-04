@@ -41,3 +41,20 @@ public class TestClass {
 {% endhighlight %}
 
 
+{% highlight javascript %}
+
+function() {  
+
+   ready: function(element, options) { alert('Test'); }
+
+}();
+
+
+{% endhighlight %}
+
+
+
+
+
+
+
