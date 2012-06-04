@@ -16,6 +16,8 @@ Console.WriteLine("Testing");
 
 <br/>
 
-{% highlight bash %}
-cd ~
+{% highlight C# %}
+Console.WriteLine("Hi");
 {% endhighlight %}
+
+
