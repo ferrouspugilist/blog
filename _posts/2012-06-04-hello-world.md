@@ -22,3 +22,9 @@ Console.WriteLine("Testing2");
         song_info.append(song.name)                                                                                                                                   
 {% endhighlight %}
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
