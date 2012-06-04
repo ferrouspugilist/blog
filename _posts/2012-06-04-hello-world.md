@@ -52,7 +52,13 @@ function() {
 
 {% endhighlight %}
 
-
+<table>
+<tr>
+<td>Col1</td>
+<td>Col2</td>
+<td>Col3</td>
+</tr>
+</table>
 
 
 | Left align | Right align | Center align |
