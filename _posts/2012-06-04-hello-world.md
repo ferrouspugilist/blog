@@ -11,12 +11,12 @@ who: World
 Hello {{ page.who }}!
 
 <pre>
-Console.WriteLine("Testing");
+Console.WriteLine("Testing2");
 </pre>
 
 <br/>
 
-{% highlight C# %}
+{% highlight Java %}
 public class Hello {
 
   public static void Main(string[] args) {
