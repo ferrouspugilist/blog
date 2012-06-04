@@ -16,14 +16,9 @@ Console.WriteLine("Testing2");
 
 <br/>
 
-{% highlight Java %}
-public class Hello {
-
-  public static void Main(string[] args) {
-      int x = 5;
-  }
-
-}
-{% endhighlight %}
-
+{% highlight python %}
+    song_info = []
+    for song in songs:
+        song_info.append(song.name)                                                                                                                                   
+{% endhighlight %
 
