@@ -28,3 +28,8 @@ def foo
 end
 {% endhighlight %}
 
+{% highlight csharp %}
+var i = 50;
+{% endhighlight %}
+
+
