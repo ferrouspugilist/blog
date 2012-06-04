@@ -10,8 +10,6 @@ who: World
 {% include JB/setup %}
 Hello {{ page.who }}!
 
-{% highlight ruby linenos %}
-def foo
-  puts 'foo'
-end
+{% highlight C# %}
+Console.WriteLine("Testing");
 {% endhighlight %}
